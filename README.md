@@ -1,5 +1,5 @@
 # Etch-a-Sketch (Grid Drawing App)
-
+Website link:https://sr6792.github.io/Etch-a-Sketch-/
 A fun browser-based grid drawing app built using HTML, CSS, and JavaScript. You can hover to color squares, click to darken them progressively, and even generate grids of different sizes or with random colors.
 
 ## 🚀 Features
